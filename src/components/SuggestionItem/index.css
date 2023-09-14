@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  width: 90%;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.para {
+  font-size: 15px;
+  font-weight: bold;
+}
+.arrow {
+  width: 7%;
+  height: 7%;
+}
